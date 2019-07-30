@@ -1,0 +1,236 @@
+﻿var,label
+average.dhw.90days,Average DHW
+average.dhw.90days:avg.high.spell.duration.90days,Average DHW x Mean high spell duration
+average.dhw.90days:avg.high.spell.duration.90days:max.low.spell.duration.90dys,Average DHW x Mean high spell duration x Maximum low spell duration
+average.dhw.90days:avg.high.spell.rise.90days,Average DHW x High spell rate of rise
+average.dhw.90days:avg.high.spell.rise.90days:managementopen,Average DHW x High spell rate of rise x Management (open)
+average.dhw.90days:avg.high.spell.rise.90days:managementrestricted,Average DHW x High spell rate of rise x Management (restricted) 
+average.dhw.90days:avg.spell.peak,Average DHW x Average high spell peak
+average.dhw.90days:avg.spell.peak:bimodality.coefficient,Average DHW x Average high spell peak x Bimodality
+average.dhw.90days:bimodality.coefficient,Average DHW x Bimodality
+average.dhw.90days:bimodality.coefficient:CA1,Average DHW x Bimodality x Coral community
+average.dhw.90days:CA1,Average DHW x Coral community
+average.dhw.90days:CA1:dhd_mmmplus1,Average DHW x Coral community x Early DHD >1
+average.dhw.90days:dhd_mmmplus1,Average DHW x Early DHD >1
+average.dhw.90days:dhd_mmmplus1:site.suscept2016,Average DHW x Early DHD >1 x Site susceptibility 2016
+average.dhw.90days:managementopen,Average DHW x Management (open)
+average.dhw.90days:managementrestricted,Average DHW x Management (restricted) 
+average.dhw.90days:max.low.spell.duration.90dys,Average DHW x Maximum low spell duration
+average.dhw.90days:sd.spell.peak,Average DHW x Standard deviation high spell peak
+average.dhw.90days:sd.spell.peak:Y,Average DHW x Standard deviation high spell peak x Latitude
+average.dhw.90days:site.suscept2016,Average DHW x Site susceptibility 2016
+average.dhw.90days:X,Average DHW x Longitude
+average.dhw.90days:X:Y,Average DHW x Longitude x Latitude
+average.dhw.90days:Y,Average DHW x Latitude
+avg.high.spell.duration.90days,Mean high spell duration
+avg.high.spell.duration.90days:avg.high.spell.rise.90days,Mean high spell duration x High spell rate of rise
+avg.high.spell.duration.90days:avg.high.spell.rise.90days:avg.low.spell.duration.90dys,Mean high spell duration x High spell rate of rise x Mean low spell duration
+avg.high.spell.duration.90days:avg.high.spell.rise.90days:dip.Statistic.sst,Mean high spell duration x High spell rate of rise x SST dip statistic
+avg.high.spell.duration.90days:avg.low.spell.duration.90dys,Mean high spell duration x Mean low spell duration
+avg.high.spell.duration.90days:avg.low.spell.duration.90dys:avg.spell.peak,Mean high spell duration x Mean low spell duration x Average high spell peak
+avg.high.spell.duration.90days:avg.low.spell.duration.90dys:CA1,Mean high spell duration x Mean low spell duration x Coral community
+avg.high.spell.duration.90days:avg.low.spell.duration.90dys:site.suscept2016,Mean high spell duration x Mean low spell duration x Site susceptibility 2016
+avg.high.spell.duration.90days:avg.low.spell.duration.90dys:X,Mean high spell duration x Mean low spell duration x Longitude
+avg.high.spell.duration.90days:avg.spell.peak,Mean high spell duration x Average high spell peak
+avg.high.spell.duration.90days:bimodality.ratio,Mean high spell duration x Bimodality peak proportion
+avg.high.spell.duration.90days:bimodality.ratio:managementopen,Mean high spell duration x Bimodality peak proportion x Management (open)
+avg.high.spell.duration.90days:bimodality.ratio:managementrestricted,Mean high spell duration x Bimodality peak proportion x Management (restricted) 
+avg.high.spell.duration.90days:CA1,Mean high spell duration x Coral community
+avg.high.spell.duration.90days:depth_m,Mean high spell duration x Depth
+avg.high.spell.duration.90days:depth_m:site.suscept2016,Mean high spell duration x Depth x Site susceptibility 2016
+avg.high.spell.duration.90days:dhd_mmmplus1,Mean high spell duration x Early DHD >1
+avg.high.spell.duration.90days:dhd_mmmplus1:site.suscept2016,Mean high spell duration x Early DHD >1 x Site susceptibility 2016
+avg.high.spell.duration.90days:DHWCummSUM1,Mean high spell duration x Cumulative DHW
+avg.high.spell.duration.90days:DHWCummSUM1:max.low.spell.duration.90dys,Mean high spell duration x Cumulative DHW x Maximum low spell duration
+avg.high.spell.duration.90days:dip.Statistic.sst,Mean high spell duration x SST dip statistic
+avg.high.spell.duration.90days:managementopen,Mean high spell duration x Management (open)
+avg.high.spell.duration.90days:managementrestricted,Mean high spell duration x Management (restricted) 
+avg.high.spell.duration.90days:max.low.spell.duration.90dys,Mean high spell duration x Maximum low spell duration
+avg.high.spell.duration.90days:sd.spell.peak,Mean high spell duration x Standard deviation high spell peak
+avg.high.spell.duration.90days:site.suscept2016,Mean high spell duration x Site susceptibility 2016
+avg.high.spell.duration.90days:X,Mean high spell duration x Longitude
+avg.high.spell.rise.90days,High spell rate of rise
+avg.high.spell.rise.90days:avg.low.spell.duration.90dys,High spell rate of rise x Mean low spell duration
+avg.high.spell.rise.90days:DHWCummSUM1,High spell rate of rise x Cumulative DHW
+avg.high.spell.rise.90days:DHWCummSUM1:managementopen,High spell rate of rise x Cumulative DHW x Management (open)
+avg.high.spell.rise.90days:DHWCummSUM1:managementrestricted,High spell rate of rise x Cumulative DHW x Management (restricted) 
+avg.high.spell.rise.90days:dip.Statistic.sst,High spell rate of rise x SST dip statistic
+avg.high.spell.rise.90days:managementopen,High spell rate of rise x Management (open)
+avg.high.spell.rise.90days:managementrestricted,High spell rate of rise x Management (restricted) 
+avg.high.spell.rise.90days:max.high.spell.duration.90days,High spell rate of rise x Maximum high spell duration
+avg.high.spell.rise.90days:max.high.spell.duration.90days:max.low.spell.duration.90dys,High spell rate of rise x Maximum high spell duration x Maximum low spell duration
+avg.high.spell.rise.90days:max.low.spell.duration.90dys,High spell rate of rise x Maximum low spell duration
+avg.low.spell.duration.90dys,Mean low spell duration
+avg.low.spell.duration.90dys:avg.spell.peak,Mean low spell duration x Average high spell peak
+avg.low.spell.duration.90dys:avg.spell.peak:Y,Mean low spell duration x Average high spell peak x Latitude
+avg.low.spell.duration.90dys:CA1,Mean low spell duration x Coral community
+avg.low.spell.duration.90dys:depth_m,Mean low spell duration x Depth
+avg.low.spell.duration.90dys:max.high.spell.duration.90days,Mean low spell duration x Maximum high spell duration
+avg.low.spell.duration.90dys:n.h.spell.events_90Days,Mean low spell duration x High spell events
+avg.low.spell.duration.90dys:n.h.spell.events_90Days:X,Mean low spell duration x High spell events x Longitude
+avg.low.spell.duration.90dys:sd.spell.peak,Mean low spell duration x Standard deviation high spell peak
+avg.low.spell.duration.90dys:site.suscept2016,Mean low spell duration x Site susceptibility 2016
+avg.low.spell.duration.90dys:X,Mean low spell duration x Longitude
+avg.low.spell.duration.90dys:Y,Mean low spell duration x Latitude
+avg.spell.peak,Average high spell peak
+avg.spell.peak:bimodality.coefficient,Average high spell peak x Bimodality
+avg.spell.peak:bimodality.coefficient:DHWCummSUM1,Average high spell peak x Bimodality x Cumulative DHW
+avg.spell.peak:CA1,Average high spell peak x Coral community
+avg.spell.peak:CA1:dip.Statistic.sst,Average high spell peak x Coral community x SST dip statistic
+avg.spell.peak:CA1:max.high.spell.duration.90days,Average high spell peak x Coral community x Maximum high spell duration
+avg.spell.peak:CA1:max.low.spell.duration.90dys,Average high spell peak x Coral community x Maximum low spell duration
+avg.spell.peak:CA1:X,Average high spell peak x Coral community x Longitude
+avg.spell.peak:depth_m,Average high spell peak x Depth
+avg.spell.peak:depth_m:sd.spell.peak,Average high spell peak x Depth x Standard deviation high spell peak
+avg.spell.peak:dhd_mmmplus1,Average high spell peak x Early DHD >1
+avg.spell.peak:dhd_mmmplus1:sd.spell.peak,Average high spell peak x Early DHD >1 x Standard deviation high spell peak
+avg.spell.peak:dhd_mmmplus1:X,Average high spell peak x Early DHD >1 x Longitude
+avg.spell.peak:dhd_mmmplus1:Y,Average high spell peak x Early DHD >1 x Latitude
+avg.spell.peak:DHWCummSUM1,Average high spell peak x Cumulative DHW
+avg.spell.peak:dip.Statistic.sst,Average high spell peak x SST dip statistic
+avg.spell.peak:max.dhw.90days,Average high spell peak x Maximum DHW
+avg.spell.peak:max.high.spell.duration.90days,Average high spell peak x Maximum high spell duration
+avg.spell.peak:max.low.spell.duration.90dys,Average high spell peak x Maximum low spell duration
+avg.spell.peak:sd.spell.peak,Average high spell peak x Standard deviation high spell peak
+avg.spell.peak:X,Average high spell peak x Longitude
+avg.spell.peak:Y,Average high spell peak x Latitude
+bimodality.coefficient,Bimodality
+bimodality.coefficient:CA1,Bimodality x Coral community
+bimodality.coefficient:CA1:DHWCummSUM1,Bimodality x Coral community x Cumulative DHW
+bimodality.coefficient:depth_m,Bimodality x Depth
+bimodality.coefficient:depth_m:Y,Bimodality x Depth x Latitude
+bimodality.coefficient:DHWCummSUM1,Bimodality x Cumulative DHW
+bimodality.coefficient:managementopen,Bimodality x Management (open)
+bimodality.coefficient:managementopen:max.dhw.90days,Bimodality x Management (open) x Maximum DHW
+bimodality.coefficient:managementrestricted,Bimodality x Management (restricted) 
+bimodality.coefficient:managementrestricted:max.dhw.90days,Bimodality x Management (restricted)  x Maximum DHW
+bimodality.coefficient:max.dhw.90days,Bimodality x Maximum DHW
+bimodality.coefficient:Y,Bimodality x Latitude
+bimodality.ratio,Bimodality peak proportion
+bimodality.ratio:managementopen,Bimodality peak proportion x Management (open)
+bimodality.ratio:managementopen:max.high.spell.duration.90days,Bimodality peak proportion x Management (open) x Maximum high spell duration
+bimodality.ratio:managementrestricted,Bimodality peak proportion x Management (restricted) 
+bimodality.ratio:managementrestricted:max.high.spell.duration.90days,Bimodality peak proportion x Management (restricted)  x Maximum high spell duration
+bimodality.ratio:max.high.spell.duration.90days,Bimodality peak proportion x Maximum high spell duration
+bimodality.ratio:max.low.spell.duration.90dys,Bimodality peak proportion x Maximum low spell duration
+bimodality.ratio:max.low.spell.duration.90dys:Y,Bimodality peak proportion x Maximum low spell duration x Latitude
+bimodality.ratio:Y,Bimodality peak proportion x Latitude
+CA1,Coral community
+CA1:dhd_mmmplus1,Coral community x Early DHD >1
+CA1:dhd_mmmplus1:DHWCummSUM1,Coral community x Early DHD >1 x Cumulative DHW
+CA1:DHWCummSUM1,Coral community x Cumulative DHW
+CA1:dip.Statistic.sst,Coral community x SST dip statistic
+CA1:max.high.spell.duration.90days,Coral community x Maximum high spell duration
+CA1:max.low.spell.duration.90dys,Coral community x Maximum low spell duration
+CA1:n.h.spell.events_90Days,Coral community x High spell events
+CA1:n.h.spell.events_90Days:sd.spell.peak,Coral community x High spell events x Standard deviation high spell peak
+CA1:sd.spell.peak,Coral community x Standard deviation high spell peak
+CA1:sd.spell.peak:X,Coral community x Standard deviation high spell peak x Longitude
+CA1:X,Coral community x Longitude
+depth_m,Depth
+depth_m:max.high.spell.duration.90days,Depth x Maximum high spell duration
+depth_m:max.high.spell.duration.90days:site.suscept2016,Depth x Maximum high spell duration x Site susceptibility 2016
+depth_m:max.low.spell.duration.90dys,Depth x Maximum low spell duration
+depth_m:sd.spell.peak,Depth x Standard deviation high spell peak
+depth_m:site.suscept2016,Depth x Site susceptibility 2016
+depth_m:X,Depth x Longitude
+depth_m:Y,Depth x Latitude
+dhd_mmmplus1,Early DHD >1
+dhd_mmmplus1:DHWCummSUM1,Early DHD >1 x Cumulative DHW
+dhd_mmmplus1:DHWCummSUM1:site.suscept2016,Early DHD >1 x Cumulative DHW x Site susceptibility 2016
+dhd_mmmplus1:dip.Statistic.sst,Early DHD >1 x SST dip statistic
+dhd_mmmplus1:dip.Statistic.sst:Y,Early DHD >1 x SST dip statistic x Latitude
+dhd_mmmplus1:max.high.spell.duration.90days,Early DHD >1 x Maximum high spell duration
+dhd_mmmplus1:sd.spell.peak,Early DHD >1 x Standard deviation high spell peak
+dhd_mmmplus1:sd.spell.peak:Y,Early DHD >1 x Standard deviation high spell peak x Latitude
+dhd_mmmplus1:site.suscept2016,Early DHD >1 x Site susceptibility 2016
+dhd_mmmplus1:site.suscept2016:X,Early DHD >1 x Site susceptibility 2016 x Longitude
+dhd_mmmplus1:X,Early DHD >1 x Longitude
+dhd_mmmplus1:Y,Early DHD >1 x Latitude
+DHWCummSUM1,Cumulative DHW
+DHWCummSUM1:managementopen,Cumulative DHW x Management (open)
+DHWCummSUM1:managementrestricted,Cumulative DHW x Management (restricted) 
+DHWCummSUM1:max.low.spell.duration.90dys,Cumulative DHW x Maximum low spell duration
+DHWCummSUM1:sd.spell.peak,Cumulative DHW x Standard deviation high spell peak
+DHWCummSUM1:sd.spell.peak:Y,Cumulative DHW x Standard deviation high spell peak x Latitude
+DHWCummSUM1:site.suscept2016,Cumulative DHW x Site susceptibility 2016
+DHWCummSUM1:X,Cumulative DHW x Longitude
+DHWCummSUM1:X:Y,Cumulative DHW x Longitude x Latitude
+DHWCummSUM1:Y,Cumulative DHW x Latitude
+dip.Statistic.sst,SST dip statistic
+dip.Statistic.sst:max.high.spell.duration.90days,SST dip statistic x Maximum high spell duration
+dip.Statistic.sst:max.high.spell.duration.90days:X,SST dip statistic x Maximum high spell duration x Longitude
+dip.Statistic.sst:sd.spell.peak,SST dip statistic x Standard deviation high spell peak
+dip.Statistic.sst:sd.spell.peak:Y,SST dip statistic x Standard deviation high spell peak x Latitude
+dip.Statistic.sst:X,SST dip statistic x Longitude
+dip.Statistic.sst:Y,SST dip statistic x Latitude
+habitatchannel,Habitat (channel)
+habitatchannel:max.dhw.90days,Habitat (channel) x Maximum DHW
+habitatchannel:max.dhw.90days:sd.spell.peak,Habitat (channel) x Maximum DHW x Standard deviation high spell peak
+habitatchannel:max.high.spell.duration.90days,Habitat (channel) x Maximum high spell duration
+habitatchannel:sd.spell.peak,Habitat (channel) x Standard deviation high spell peak
+habitatcrest,Habitat (crest)
+habitatcrest:max.dhw.90days,Habitat (crest) x Maximum DHW
+habitatcrest:max.dhw.90days:sd.spell.peak,Habitat (crest) x Maximum DHW x Standard deviation high spell peak
+habitatcrest:max.high.spell.duration.90days,Habitat (crest) x Maximum high spell duration
+habitatcrest:sd.spell.peak,Habitat (crest) x Standard deviation high spell peak
+habitatflat,Habitat (flat)
+habitatflat:max.dhw.90days,Habitat (flat) x Maximum DHW
+habitatflat:max.dhw.90days:sd.spell.peak,Habitat (flat) x Maximum DHW x Standard deviation high spell peak
+habitatflat:max.high.spell.duration.90days,Habitat (flat) x Maximum high spell duration
+habitatflat:sd.spell.peak,Habitat (flat) x Standard deviation high spell peak
+habitatlagoon,Habitat (lagoon)
+habitatlagoon:max.dhw.90days,Habitat (lagoon) x Maximum DHW
+habitatlagoon:max.dhw.90days:sd.spell.peak,Habitat (lagoon) x Maximum DHW x Standard deviation high spell peak
+habitatlagoon:max.high.spell.duration.90days,Habitat (lagoon) x Maximum high spell duration
+habitatlagoon:sd.spell.peak,Habitat (lagoon) x Standard deviation high spell peak
+habitatslope,Habitat (slope)
+habitatslope:max.dhw.90days,Habitat (slope) x Maximum DHW
+habitatslope:max.dhw.90days:sd.spell.peak,Habitat (slope) x Maximum DHW x Standard deviation high spell peak
+habitatslope:max.high.spell.duration.90days,Habitat (slope) x Maximum high spell duration
+habitatslope:sd.spell.peak,Habitat (slope) x Standard deviation high spell peak
+Int,Intercept
+managementopen,Management (open)
+managementopen:max.dhw.90days,Management (open) x Maximum DHW
+managementopen:max.high.spell.duration.90days,Management (open) x Maximum high spell duration
+managementopen:Y,Management (open) x Latitude
+managementrestricted,Management (restricted) 
+managementrestricted:max.dhw.90days,Management (restricted)  x Maximum DHW
+managementrestricted:max.high.spell.duration.90days,Management (restricted)  x Maximum high spell duration
+managementrestricted:Y,Management (restricted)  x Latitude
+max.dhw.90days,Maximum DHW
+max.dhw.90days:sd.spell.peak,Maximum DHW x Standard deviation high spell peak
+max.dhw.90days:sd.spell.peak:Y,Maximum DHW x Standard deviation high spell peak x Latitude
+max.dhw.90days:X,Maximum DHW x Longitude
+max.dhw.90days:X:Y,Maximum DHW x Longitude x Latitude
+max.dhw.90days:Y,Maximum DHW x Latitude
+max.high.spell.duration.90days,Maximum high spell duration
+max.high.spell.duration.90days:max.low.spell.duration.90dys,Maximum high spell duration x Maximum low spell duration
+max.high.spell.duration.90days:site.suscept2016,Maximum high spell duration x Site susceptibility 2016
+max.high.spell.duration.90days:X,Maximum high spell duration x Longitude
+max.low.spell.duration.90dys,Maximum low spell duration
+max.low.spell.duration.90dys:Y,Maximum low spell duration x Latitude
+n.h.spell.events_90Days,High spell events
+n.h.spell.events_90Days:sd.spell.peak,High spell events x Standard deviation high spell peak
+n.h.spell.events_90Days:X,High spell events x Longitude
+sd.spell.peak,Standard deviation high spell peak
+sd.spell.peak:X,Standard deviation high spell peak x Longitude
+sd.spell.peak:Y,Standard deviation high spell peak x Latitude
+site.suscept2016,Site susceptibility 2016
+site.suscept2016:X,Site susceptibility 2016 x Longitude
+X,Longitude
+X:avg.high.spell.duration.90days,Longitude x Mean high spell duration
+X:Y,Longitude x Latitude
+X:Y:avg.high.spell.duration.90days,Longitude x Latitude x Mean high spell duration
+Y,Latitude
+Y:avg.high.spell.duration.90days,Latitude x Mean high spell duration
+bimodality.coefficient:X,Bimodality x Longitude
+avg.spell.peak.bimodality.coefficient:X,Average high spell peak x Bimodality x Longitude
+avg.low.spell.duration.90dys:avg.spell.peak:X,Mean low spell duration x Average high spell peak x Longitude
+management,Management
+habitat,Habitat
+avg.SST.90days,Mean SST (2016)
+SST,Mean SST (1982 - 2016)
+Skewness,Skewness (1982 - 2016)
+Kurtosis,Kurtosis (1982 - 2016)
+sd,Standard deviation (1982 - 2016)
