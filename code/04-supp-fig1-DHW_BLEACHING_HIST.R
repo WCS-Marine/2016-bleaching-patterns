@@ -69,15 +69,15 @@ scatterPlot <- ggplot(FULL, aes(max.dhw.90days, bleach_intensity, color=group)) 
   scale_color_manual("Bleaching \nintensity", 
                      values = COL, 
                      labels = c("0-4", "4-20", "20-40", "40+")) + 
-  xlab("Degree heating weeks") +
+  xlab("Maximum degree heating weeks") +
   ylab("Bleaching intensity") +
-  theme_sleek() +
+  theme_sleek(base_size = 14) +  
   theme(legend.position="none") + #no legend to line up with cowplot
-  geom_hline(yintercept=5, linetype="dashed") +
+  geom_hline(yintercept=4, linetype="dashed") +
   geom_vline(xintercept=4, linetype="dashed") + 
   scale_x_continuous(limits = c(0,16), expand = c(0.01,0.01)) + 
   scale_y_continuous(limits = c(0,68), expand = c(0.01,0.01), 
-                     breaks = c(0,5,20,40,60))
+                     breaks = c(0,4,20,40,60))
 
 scatterPlot
   
@@ -86,7 +86,7 @@ xdensity <- ggplot(FULL, aes(average.dhw.90days, fill=group)) +
   geom_density(alpha=.5) + 
   scale_fill_manual(values = COL) + 
   ylab("Density") +
-  theme_sleek() + 
+  theme_sleek(base_size = 14) +  
   theme(axis.ticks.x = element_blank(), 
         axis.text.x = element_blank(),
         axis.title.x = element_blank(), 
@@ -104,7 +104,7 @@ ydensity <- ggplot(FULL, aes(bleach_intensity, fill=group)) +
   geom_density(alpha=.5) + 
   scale_fill_manual(values = COL) + 
   xlab("Bleaching intensity") +
-  theme_sleek() +  
+  theme_sleek(base_size = 14) +  
   coord_flip() + 
   scale_x_continuous(limits = c(0,68), expand = c(0.01,0.01)) + 
   scale_y_continuous(expand = c(0,0)) + 
